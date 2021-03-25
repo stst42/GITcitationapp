@@ -1,0 +1,12 @@
+name: sentiment_app
+title: sentiment_app
+username:
+account: stshinyapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3361791
+bundleId: 4395344
+url: https://stshinyapps.shinyapps.io/sentiment_app/
+when: 1616705869.17083
+asMultiple: FALSE
+asStatic: FALSE
