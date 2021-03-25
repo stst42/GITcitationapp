@@ -5,8 +5,8 @@ account: stshinyapps
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3361791
-bundleId: 4395344
+bundleId: 4395404
 url: https://stshinyapps.shinyapps.io/sentiment_app/
-when: 1616705869.17083
+when: 1616706979.29036
 asMultiple: FALSE
 asStatic: FALSE
