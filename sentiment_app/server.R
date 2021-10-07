@@ -14,6 +14,8 @@ server <- function(input, output) {
     library(igraph)
     library(plotly)
     library(ggfortify)
+    library(data.table)
+    
     
     mydata_f <- reactive({
         URL <- "https://en.wikiquote.org/wiki/"
@@ -24,14 +26,6 @@ server <- function(input, output) {
         URL <-lapply(auth, function(x)paste0(URL,x))
         
         
-        library(tidytext)
-        library(rvest)
-        library(dplyr)
-        library(ggwordcloud)
-        library(ggplot2)
-        library(reshape2)
-        library(syuzhet)
-        library(data.table)
         
         
         # get data

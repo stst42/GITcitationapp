@@ -67,7 +67,7 @@ ui <- dashboardPage(skin = "black",
                                  ,"Top 10 words by search. The cloud could give more than 10 words,
                                   if some words have the same ranking. Dark red words are
                                   the most cited, clear blue the less cited overall. 
-                                 It can take some second to render.")),
+                                 It can take some seconds to render.")),
                 # fluid 2 ----                   
                      fluidRow( 
                     # wordcloud ----
@@ -91,7 +91,7 @@ ui <- dashboardPage(skin = "black",
                                          ,plotlyOutput("plot5",height = 300), height = 400),
                              box(width = 6,title = "Sentiments by query"
                                  , status = "info", solidHeader = TRUE
-                             ,"Here the percentage of sentiment calculated on words on the queries"
+                             ,"Here the percentage of sentiment calculated on words on the queries."
                              ,plotlyOutput ("plot1",height = 300),height = 400),
                     # acp biplot ----
                              box(width = 12,title = 'PCA biplot'

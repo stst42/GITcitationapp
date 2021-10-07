@@ -1,0 +1,11 @@
+name: sentiment_app
+title:
+username:
+account: stst42
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4824061
+bundleId: 5116014
+url: https://stst42.shinyapps.io/sentiment_app/
+when: 1633642445.0195
+lastSyncTime: 1633642445.0195
