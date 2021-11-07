@@ -16,4 +16,4 @@ R 3.6.2<br>
 Win 10 machine<br>
 
 **app link**<br>
-https://stshinyapps.shinyapps.io/sentiment_app/
+https://stst42.shinyapps.io/sentiment_app/
