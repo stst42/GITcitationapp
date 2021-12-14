@@ -25,9 +25,9 @@ You'll find a couple of folders you'll need to know:
  - sentiment_app <br>
 
 **main** <br>  
-  |->sentiment_app<br>
-  ||-> server.Rbr>
-  ||-> ui.R<br>
+  |->sentiment_app <br>
+  ||-> server.R <br>
+  ||-> ui.R <br>
 
 
 **app link**<br>
