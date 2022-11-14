@@ -12,7 +12,7 @@ App about scraping citation from Wikiquote and doing sentiment analysis on them.
 The app collect user input, then use them to scrape on Wikiquote. Data return to app and sentiment is done. Results are given to user.
 
 **Environment**<br>
-- R 4.1.2br>
+- R 4.1.2 <br>
 - RStudio 1.41717 <br>
 - Windows 11 machine<br>
 - AMD Ryzen 5 400 series <br>
