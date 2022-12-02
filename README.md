@@ -1,5 +1,5 @@
 # GITcitationapp <br>
-citation app
+Sentiment analysis by a Shiny app.
 
 **Author**<br>
 stst42
